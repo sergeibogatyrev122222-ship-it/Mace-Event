@@ -1,4 +1,4 @@
-package com.macereveal;
+package com.macereveal; 
 
 import net.kyori.adventure.text.Component;
 import net.kyori.adventure.text.format.TextColor;
